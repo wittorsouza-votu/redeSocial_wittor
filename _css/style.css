@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/02/98/94/36/360_F_298943697_pNoabgdt75EjDjPenEMxGxiFEQwkkiwP.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.borda {
+    padding: auto;
+    border: solid 4px;
+    height: 290px;
+    border-radius: 3%;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black
+}
+
+a {
+    font-size: 40px;
+    color: red;
+}
+
+LI {
+    color: red;
+}
+
+hr {
+        height: 4px;
+}
+
+h2 {
+    background-color: black;
+    color: red;
+    text-align: center;
+    height: 70px;
+    font-size: 60px;
+}
+h3{
+    background-color: red;
+    height: 300px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
